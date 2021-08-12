@@ -17,10 +17,12 @@
       		<plugin>
         		<artifactId>maven-war-plugin</artifactId>
         		
+        		<!-- 
         		<configuration>
-        			<webXml>WEB-INF\web.xml</webXml>
-				
+        			<webXml>webapp\web.xml</webXml>
         		</configuration>
+        		-->
+        		
         		
         		<version>3.2.3</version>
       		</plugin>
